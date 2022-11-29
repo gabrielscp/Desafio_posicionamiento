@@ -1,0 +1,185 @@
+body {
+    background-color: black;
+
+}
+
+header h1 {
+
+    font-size: xx-large;
+    width: 1280px;
+    height: 59px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    align-content: center;
+    margin-bottom: 0px;
+}
+
+header img {
+    top: 73px;
+    margin-top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+    /* UI Properties */
+    opacity: 1;
+}
+
+.ti {
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    /* UI Properties */
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+.ti .cuadro .pi {
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    height: 98px;
+    width: 475px;
+    padding-left: 150px;
+    padding-right: 197px;
+    padding-top: 75px;
+}
+
+.ti .cuadro .po {
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    height: 98px;
+    width: 475px;
+    padding-left: 150px;
+    padding-right: 197px;
+}
+
+
+.cuadro {
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    /* UI Properties */
+    opacity: 1;
+    float: left;
+}
+
+.cuadro img {
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    padding-left: 350px;
+    padding-top: 45px;
+    padding-bottom: 65px;
+    opacity: 1;
+}
+
+.char {
+    background-color: rgb(56, 64, 71);
+    color: white;
+    text-align: center;
+    height: 348px;
+    width: 1280px;
+    top: 1141px;
+    left: 0px;
+    display: flow-root;
+
+
+}
+
+.char h1 {
+    margin-top: 0px;
+    top: 1216px;
+    left: 464px;
+    width: 356px;
+    height: 47px;
+    text-align: center;
+    font: normal normal medium 40px/47px Raleway;
+    padding-left: 463.5px;
+    padding-top: 75px;
+    padding-bottom: 60px;
+    padding-right: 463.5px;
+}
+
+section .char {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: #221E17;
+
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
+}
+
+.char .ojo,
+.char .mano,
+.char .paint {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+section .char p {
+    font-size: 20px;
+}
+
+.char i {
+    font-size: 50px;
+}
+
+.fotos {
+    background-color: black;
+    top: 1488px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+
+
+}
+
+.imag img {
+    width: 316px;
+    height: 202px;
+    float: left;
+    padding-top: 73px;
+    padding-bottom: 73px;
+    padding-right: 25px;
+    margin-left: 63px;
+
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    background-color: #221E17;
+    color: white;
+    height: 102px;
+    width: 1280px;
+    top: 1141px;
+    left: 0px;
+
+}
+
+h3 {
+    padding-left: 359px;
+    padding-top: 39px;
+}
